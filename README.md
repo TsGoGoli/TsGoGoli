@@ -30,9 +30,11 @@
 ## 🧪 Projects
 
 | Project | Description | Stack |
-|--------|-------------|--------|
-| **Banking System** | Simulated internal tool to manage customer data | ASP.NET Core, SQL |
-| **API for Library System** | REST API for book inventory and lending system | .NET 6, EF Core, Swagger |
+|---------|-------------|-------|
+| [**AICalendar**](https://github.com/TsGoGoli/AICalendar) | AI-powered calendar app to manage events and schedules | C#, Python |
+| [**Banking System**](https://github.com/TsGoGoli/BankingSystem) | Simulated internal tool to manage customer and banking data | C#, T-SQL |
+| [**Physical Person App**](https://github.com/TsGoGoli/Physical-Person-App) | Application for managing physical person information | C# |
+| [**Library Management System**](https://github.com/TsGoGoli/Library-Management-System) | REST API & management system for library operations | C#, T-SQL, ASP.NET Core, EF Core |
 
 > More coming soon. Always building and learning!
 
