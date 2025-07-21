@@ -31,9 +31,8 @@
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| **Banking Dashboard** | Simulated internal tool to manage customer data | ASP.NET Core, SQL |
+| **Banking System** | Simulated internal tool to manage customer data | ASP.NET Core, SQL |
 | **API for Library System** | REST API for book inventory and lending system | .NET 6, EF Core, Swagger |
-| **Portfolio Website** | Personal website showcasing projects and resume | HTML/CSS, JavaScript |
 
 > More coming soon. Always building and learning!
 
@@ -41,9 +40,8 @@
 
 ## 📫 Let's Connect
 
-- 📧 tsotne.gogoli@example.com *(replace with real email)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/tsotne-gogoli)
-- 🗂️ [Portfolio (optional)](https://yourportfolio.link)
+- 📧 tsotne.gogoli543@ens.tsu.edu.ge
+- 💼 [LinkedIn](https://www.linkedin.com/in/tsgogoli/)
 - 🌐 Available for junior developer roles – full-time or freelance
 
 ---
