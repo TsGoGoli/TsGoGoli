@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Tsotne Gogoli
 
-<!--
-**TsGoGoli/TsGoGoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior .NET Developer | C# • ASP.NET Core • SQL • REST APIs  
+💼 Internship @ Credo Bank | Open to Full-Time & Remote Roles  
+📍 Based in Tbilisi, Georgia | Fluent in English & Georgian
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Languages**: C#, SQL, JavaScript (basic)
+- **Frameworks**: ASP.NET Core, Entity Framework
+- **Tools**: Visual Studio, Git, Postman
+- **Databases**: Microsoft SQL Server, SQLite
+- **Practices**: RESTful APIs, MVC Pattern, Clean Code, Agile
+
+---
+
+## 💼 Experience
+
+### .NET Developer Intern @ Credo Bank  
+*Jan 2024 – Apr 2024*  
+- Developed and optimized internal web tools using ASP.NET Core and SQL  
+- Created REST API endpoints and improved database query efficiency  
+- Collaborated in an Agile environment with senior developers  
+- Participated in code reviews and gained real-world CI/CD exposure
+
+---
+
+## 🧪 Projects
+
+| Project | Description | Stack |
+|--------|-------------|--------|
+| **Banking Dashboard** | Simulated internal tool to manage customer data | ASP.NET Core, SQL |
+| **API for Library System** | REST API for book inventory and lending system | .NET 6, EF Core, Swagger |
+| **Portfolio Website** | Personal website showcasing projects and resume | HTML/CSS, JavaScript |
+
+> More coming soon. Always building and learning!
+
+---
+
+## 📫 Let's Connect
+
+- 📧 tsotne.gogoli@example.com *(replace with real email)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/tsotne-gogoli)
+- 🗂️ [Portfolio (optional)](https://yourportfolio.link)
+- 🌐 Available for junior developer roles – full-time or freelance
+
+---
+
+## 🚀 Goals
+
+- 📌 Land my first full-time developer role
+- 🧠 Deepen my backend knowledge
+- 🤝 Contribute to open-source .NET projects
+
+---
+
+### Thanks for visiting! 😊
